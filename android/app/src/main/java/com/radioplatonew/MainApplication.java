@@ -1,4 +1,4 @@
-package com.radioplatonew;
+package com.radioplato;
 
 import android.app.Application;
 import android.content.Context;
